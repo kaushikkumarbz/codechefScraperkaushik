@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en"
+dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='description' content='CodeChef User profile of kaushikkumar. CodeChef is a Platform for Aspiring Programmers. Learn to code for free using our beginner friendly and interactive learning courses.' />
+<meta property="og:url" content="https://www.codechef.com/users/kaushikkumar" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="kaushikkumar | CodeChef User Profile for kaushik kumar | CodeChef" />
+<meta property="og:image" content="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" />
+<meta property="og:description" content="kaushikkumar | CodeChef User Profile for kaushik kumar | CodeChef" />
+<meta property="fb:app_id" content="191217060453" />
+<meta name='robots' content='index, follow' />  <link rel='canonical' href='https://www.codechef.com/users/kaushikkumar'>  <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TV5X2M');</script>
+        <!-- End Google Tag Manager -->
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-WFQ23G3"></script><link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Open+Sans:wght@300;400;600;700;800&family=Roboto+Mono:wght@100;300;400;500;700&family=Lato:wght@100;300;400;700;900&family=Outfit:wght@100;200;300;400;500;600&family=IBM+Plex+Mono&family=Inter:wght@100;200;300;400&display=swap" rel="stylesheet"><link rel='stylesheet' type='text/css' href='/sites/all/themes/mallow/css/mallow-footer.css?v=e7876fa9028803f32142db741e0b3fab'>
+<link rel='stylesheet' type='text/css' href='/sites/all/themes/mallow/css/mallow-header.css?v=2d3e634dbd76e6fadbcd7ee00fe22621'>  <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+  <title>kaushikkumar | CodeChef User Profile for kaushik kumar | CodeChef</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://cdn.codechef.com/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="/misc/jquery-ui-1.10.0/css/smoothness/jquery-ui-1.10.0.custom.min.css">
+  <script type="text/javascript" src="/misc/jquery.js?8"></script>
+<script type="text/javascript" src="/misc/drupal.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_alerts/codechef_alerts.js?v=649c43b6894169b33b5557aa0374459d?8"></script>
+<script type="text/javascript" src="/misc/jquery-popup-overlay/popupoverlay.js?8"></script>
+<script type="text/javascript" src="/em/libs/cryptojs/aes.js?8"></script>
+<script type="text/javascript" src="/em/libs/common/common.js?v=ed8b9f35d2ef5218fdce671b1fa78ca0?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/js/localStorage.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/js/keybinding.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/js/codechefGenericModal.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/codechef_common_functions.js?v=14a693cb7b4d17e526c6987eaad20e73?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_todo/js/todo_notification.js?v=5c8b56f9cb05732128cc8fe8ce3708bb?8"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/jquery.scrollTo-min.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/jquery.localscroll-min.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/tableofcontents.js?8"></script>
+<script type="text/javascript" src="/em/libs/remove_prototype.js?8"></script>
+<script type="text/javascript" src="/misc/common.js?8"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?8"></script>
+<script type="text/javascript" src="/em/libs/handlebars/handlebars.js?8"></script>
+<script type="text/javascript" src="/em/libs/ember/prod.ember.js?8"></script>
+<script type="text/javascript" src="/em/libs/ember-data/prod.beta.ember-data.js?8"></script>
+<script type="text/javascript" src="/em/libs/ember-bootstrap-components/bs-core.js?8"></script>
+<script type="text/javascript" src="/em/libs/ember-bootstrap-components/bs-notification.js?8"></script>
+<script type="text/javascript" src="/em/libs/ember-bootstrap-components/bs-growl.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_register/js/app.js?version=2.0?8"></script>
+<script type="text/javascript" src="/bower_components/foundation/js/foundation.min.js?8"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","visitedContests":[],"username":null,"user_consented_privacy_policy_version":null,"user_consented_privacy_policy_on":null,"current_privacy_policy_version":"9721896","currentUser":"kaushikkumar","maxSetMembersCount":100,"date_versus_rating":{"all":[{"code":"SEPT18B","getyear":"2018","getmonth":"9","getday":"17","reason":null,"penalised_in":null,"rating":"1234","rank":"4548","name":"September Challenge 2018 Division 2","end_date":"2018-09-17 15:00:02","color":"#666666"},{"code":"LTIME64B","getyear":"2018","getmonth":"9","getday":"29","reason":null,"penalised_in":null,"rating":"1251","rank":"2967","name":"September Lunchtime 2018 Division 2","end_date":"2018-09-29 22:30:02","color":"#666666"},{"code":"NOV18B","getyear":"2018","getmonth":"11","getday":"12","reason":null,"penalised_in":null,"rating":"1357","rank":"3952","name":"November Challenge 2018 Division 2","end_date":"2018-11-12 15:00:02","color":"#666666"},{"code":"MOSCWJ19","getyear":"2018","getmonth":"11","getday":"18","reason":null,"penalised_in":null,"rating":"1388","rank":"158","name":"Moscow Workshops Juniors 2019 (Rated for all)","end_date":"2018-11-18 18:30:00","color":"#666666"},{"code":"COOK100B","getyear":"2018","getmonth":"11","getday":"19","reason":null,"penalised_in":null,"rating":"1406","rank":"1207","name":"November Cook-Off 2018 Division 2","end_date":"2018-11-19 00:00:02","color":"#1E7D22"},{"code":"DEC18B","getyear":"2018","getmonth":"12","getday":"18","reason":"Plagiarised in DEC18B","penalised_in":["DEC18B"],"rating":"1149","rank":"10770","name":"December Challenge 2018 Division 2","end_date":"2018-12-18 01:02:02","color":"#666666"},{"code":"FEB19B","getyear":"2019","getmonth":"2","getday":"13","reason":null,"penalised_in":null,"rating":"1220","rank":"4215","name":"February Challenge 2019 Division 2","end_date":"2019-02-13 15:00:02","color":"#666666"},{"code":"APRIL19B","getyear":"2019","getmonth":"4","getday":"15","reason":null,"penalised_in":null,"rating":"1285","rank":"3923","name":"April Challenge 2019 Division 2","end_date":"2019-04-15 15:00:02","color":"#666666"},{"code":"AUG19B","getyear":"2019","getmonth":"8","getday":"12","reason":null,"penalised_in":null,"rating":"1367","rank":"540","name":"August Challenge 2019 Division 2","end_date":"2019-08-12 15:00:02","color":"#666666"},{"code":"SEPT19B","getyear":"2019","getmonth":"9","getday":"16","reason":null,"penalised_in":null,"rating":"1378","rank":"8443","name":"September Challenge 2019 Division 2","end_date":"2019-09-16 15:00:02","color":"#666666"},{"code":"OCT19B","getyear":"2019","getmonth":"10","getday":"14","reason":null,"penalised_in":null,"rating":"1443","rank":"2163","name":"October Challenge 2019 Division 2","end_date":"2019-10-14 15:00:02","color":"#1E7D22"},{"code":"COOK112B","getyear":"2019","getmonth":"11","getday":"18","reason":null,"penalised_in":null,"rating":"1431","rank":"1792","name":"November Cook-Off 2019 Division 2","end_date":"2019-11-18 00:00:02","color":"#1E7D22"},{"code":"LTIME78B","getyear":"2019","getmonth":"11","getday":"30","reason":null,"penalised_in":null,"rating":"1480","rank":"444","name":"November Lunchtime 2019 Division 2","end_date":"2019-11-30 22:30:02","color":"#1E7D22"},{"code":"DEC19B","getyear":"2019","getmonth":"12","getday":"16","reason":null,"penalised_in":null,"rating":"1548","rank":"250","name":"December Challenge 2019 Division 2","end_date":"2019-12-16 15:02:00","color":"#1E7D22"},{"code":"FEB20B","getyear":"2020","getmonth":"2","getday":"17","reason":"Plagiarised in FEB20B","penalised_in":["FEB20B"],"rating":"1276","rank":"15147","name":"February Challenge 2020 Division 2","end_date":"2020-02-17 15:00:02","color":"#666666"},{"code":"COOK122B","getyear":"2020","getmonth":"9","getday":"21","reason":null,"penalised_in":null,"rating":"1349","rank":"258","name":"September Cook-Off 2020 Division 2","end_date":"2020-09-21 00:00:02","color":"#666666"},{"code":"LTIME88B","getyear":"2020","getmonth":"9","getday":"26","reason":null,"penalised_in":null,"rating":"1410","rank":"2104","name":"September Lunchtime 2020 Division 2","end_date":"2020-09-26 23:00:02","color":"#1E7D22"},{"code":"OCT20B","getyear":"2020","getmonth":"10","getday":"12","reason":null,"penalised_in":null,"rating":"1483","rank":"2129","name":"October Challenge 2020 Division 2","end_date":"2020-10-12 15:00:02","color":"#1E7D22"},{"code":"COOK125B","getyear":"2020","getmonth":"12","getday":"22","reason":null,"penalised_in":null,"rating":"1528","rank":"1967","name":"December Cook-Off 2020 Division 2","end_date":"2020-12-22 00:00:02","color":"#1E7D22"},{"code":"FEB21B","getyear":"2021","getmonth":"2","getday":"15","reason":null,"penalised_in":null,"rating":"1599","rank":"52","name":"February Challenge 2021 Division 2","end_date":"2021-02-15 15:00:02","color":"#1E7D22"},{"code":"APRIL21B","getyear":"2021","getmonth":"4","getday":"12","reason":null,"penalised_in":null,"rating":"1675","rank":"9","name":"April Challenge 2021 Division 2","end_date":"2021-04-12 15:00:02","color":"#3366CC"}],"all_school":[],"all_old":[{"code":"SEPT18B","getyear":"2018","getmonth":"9","getday":"17","reason":null,"penalised_in":null,"rating":"1503","elo_rating":"1234","rank":"4548","name":"September Challenge 2018 Division 2","end_date":"2018-09-17 15:00:02","color":"#1E7D22"},{"code":"LTIME64B","getyear":"2018","getmonth":"9","getday":"29","reason":null,"penalised_in":null,"rating":"1440","elo_rating":"1251","rank":"2967","name":"September Lunchtime 2018 Division 2","end_date":"2018-09-29 22:30:02","color":"#1E7D22"},{"code":"NOV18B","getyear":"2018","getmonth":"11","getday":"12","reason":null,"penalised_in":null,"rating":"1505","elo_rating":"1357","rank":"3952","name":"November Challenge 2018 Division 2","end_date":"2018-11-12 15:00:02","color":"#1E7D22"},{"code":"MOSCWJ19","getyear":"2018","getmonth":"11","getday":"18","reason":null,"penalised_in":null,"rating":"1511","elo_rating":"1388","rank":"158","name":"Moscow Workshops Juniors 2019 (Rated for all)","end_date":"2018-11-18 18:30:00","color":"#1E7D22"},{"code":"COOK100B","getyear":"2018","getmonth":"11","getday":"19","reason":null,"penalised_in":null,"rating":"1501","elo_rating":"1406","rank":"1207","name":"November Cook-Off 2018 Division 2","end_date":"2018-11-19 00:00:02","color":"#1E7D22"},{"code":"DEC18B","getyear":"2018","getmonth":"12","getday":"18","reason":"Plagiarised in DEC18B","penalised_in":["DEC18B"],"rating":"1226","elo_rating":"1149","rank":"10770","name":"December Challenge 2018 Division 2","end_date":"2018-12-18 01:02:02","color":"#666666"},{"code":"FEB19B","getyear":"2019","getmonth":"2","getday":"13","reason":null,"penalised_in":null,"rating":"1394","elo_rating":"1220","rank":"4215","name":"February Challenge 2019 Division 2","end_date":"2019-02-13 15:00:02","color":"#666666"},{"code":"APRIL19B","getyear":"2019","getmonth":"4","getday":"15","reason":null,"penalised_in":null,"rating":"1492","elo_rating":"1285","rank":"3923","name":"April Challenge 2019 Division 2","end_date":"2019-04-15 15:00:02","color":"#1E7D22"},{"code":"AUG19B","getyear":"2019","getmonth":"8","getday":"12","reason":null,"penalised_in":null,"rating":"1699","elo_rating":"1367","rank":"540","name":"August Challenge 2019 Division 2","end_date":"2019-08-12 15:00:02","color":"#3366CC"},{"code":"SEPT19B","getyear":"2019","getmonth":"9","getday":"16","reason":null,"penalised_in":null,"rating":"1588","elo_rating":"1378","rank":"8443","name":"September Challenge 2019 Division 2","end_date":"2019-09-16 15:00:02","color":"#1E7D22"},{"code":"OCT19B","getyear":"2019","getmonth":"10","getday":"14","reason":null,"penalised_in":null,"rating":"1659","elo_rating":"1443","rank":"2163","name":"October Challenge 2019 Division 2","end_date":"2019-10-14 15:00:02","color":"#3366CC"},{"code":"COOK112B","getyear":"2019","getmonth":"11","getday":"18","reason":null,"penalised_in":null,"rating":"1554","elo_rating":"1431","rank":"1792","name":"November Cook-Off 2019 Division 2","end_date":"2019-11-18 00:00:02","color":"#1E7D22"},{"code":"LTIME78B","getyear":"2019","getmonth":"11","getday":"30","reason":null,"penalised_in":null,"rating":"1633","elo_rating":"1480","rank":"444","name":"November Lunchtime 2019 Division 2","end_date":"2019-11-30 22:30:02","color":"#3366CC"},{"code":"DEC19B","getyear":"2019","getmonth":"12","getday":"16","reason":null,"penalised_in":null,"rating":"1818","elo_rating":"1548","rank":"250","name":"December Challenge 2019 Division 2","end_date":"2019-12-16 15:02:00","color":"#684273"},{"code":"FEB20B","getyear":"2020","getmonth":"2","getday":"17","reason":"Plagiarised in FEB20B","penalised_in":["FEB20B"],"rating":"1543","elo_rating":"1276","rank":"15147","name":"February Challenge 2020 Division 2","end_date":"2020-02-17 15:00:02","color":"#1E7D22"},{"code":"COOK122B","getyear":"2020","getmonth":"9","getday":"21","reason":null,"penalised_in":null,"rating":"1734","elo_rating":"1349","rank":"258","name":"September Cook-Off 2020 Division 2","end_date":"2020-09-21 00:00:02","color":"#3366CC"},{"code":"LTIME88B","getyear":"2020","getmonth":"9","getday":"26","reason":null,"penalised_in":null,"rating":"1714","elo_rating":"1410","rank":"2104","name":"September Lunchtime 2020 Division 2","end_date":"2020-09-26 23:00:02","color":"#3366CC"},{"code":"OCT20B","getyear":"2020","getmonth":"10","getday":"12","reason":null,"penalised_in":null,"rating":"1739","elo_rating":"1483","rank":"2129","name":"October Challenge 2020 Division 2","end_date":"2020-10-12 15:00:02","color":"#3366CC"},{"code":"COOK125B","getyear":"2020","getmonth":"12","getday":"22","reason":null,"penalised_in":null,"rating":"1706","elo_rating":"1528","rank":"1967","name":"December Cook-Off 2020 Division 2","end_date":"2020-12-22 00:00:02","color":"#3366CC"},{"code":"FEB21B","getyear":"2021","getmonth":"2","getday":"15","reason":null,"penalised_in":null,"rating":"1877","elo_rating":"1599","rank":"52","name":"February Challenge 2021 Division 2","end_date":"2021-02-15 15:00:02","color":"#684273"},{"code":"APRIL21B","getyear":"2021","getmonth":"4","getday":"12","reason":null,"penalised_in":null,"rating":"2020","elo_rating":"1675","rank":"9","name":"April Challenge 2021 Division 2","end_date":"2021-04-12 15:00:02","color":"#FFBF00"},{"code":"RATING_SHIFT_TO_ELO_RATING_CODE","getyear":2022,"getmonth":12,"getday":20,"reason":null,"penalised_in":null,"rating":"1675","elo_rating":"1675","rank":"9","name":"April Challenge 2021 Division 2","end_date":"2022-12-20 00:00:00","color":"#3366CC"}],"all_old_school":[]},"user_initial_ratings":{"all":1500,"all_school":1000,"all_old":1500,"all_old_school":1000},"provisional_rating_contest_limit":5,"rating_shift_to_elo_rating_date":"2022-12-20 00:00:00","rating_shift_to_elo_rating_code":"RATING_SHIFT_TO_ELO_RATING_CODE"});
+//--><!]]>
+</script>
+    <link rel="stylesheet"
+          href="/sites/all/themes/abessive/css/app.css?v=9a4ace2fa93d0a964c78c88053b97f0d">
+  </head>
+<body class="sidebar-right">
+<script>window.csrfToken = '6e9198295eb1233a7c1c9702a31bbf20e6c06290e7779e002eebc18141192328';</script><!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TV5X2M"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) --><header class="m-header-one l-main-header ">
+    <div class="l-header">
+        <div class="l-header__logo">
+            <div class="l-header__image-2">
+                <a href="https://www.codechef.com">
+                    <img class="m-header__image m-header__image--pc"
+                         src="https://cdn.codechef.com/images/cc-logo.svg"
+                         alt="CodeChef Logo">
+                    <img class="m-header__image m-header__image--mobile"
+                         src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg"
+                         alt="CodeChef Logo">
+                </a>
+            </div>
+        </div>
+        <div class="headerRightContainer">
+            <div class="desktopNavigation">
+                <div class="headerNavigation">
+                    <div class="navigationRow">
+                         
+                         <a class="navigationItem" href="/learn?itm_medium=navmenu&itm_campaign=learncp">
+                            <span class="navigationLink ">Learn</span>
+                         </a>
+                         <a class="navigationItem" href="/practice?itm_medium=navmenu&itm_campaign=practice">
+                            <span class="navigationLink ">Practice</span>
+                         </a>
+                         <a class="navigationItem" href="/contests?itm_medium=navmenu&itm_campaign=allcontests">
+                            <span class="navigationLink ">Compete</span>
+                         </a>             
+                    </div>
+                </div>            </div>
+            <div class="l-header__user-block">
+                <a class="m-premium-text-container" href="/pro?ref=header" target="_blank">
+                <i class="i-premium-icon"></i>
+                <span class="m-premium-text">Upgrade to Pro</span>
+            </a>
+            <hr class="m-divider--vertical">
+            <div class="m-login-container--desktop">
+                <button class="m-login-button-no-border" onclick="window.open('https://www.codechef.com/login?destination=/users/kaushikkumar', '_self')">Login</button><button class="m-signup-button" 
+                    onclick="window.open('https://www.codechef.com/signup?destination=/users/kaushikkumar', '_self')">Sign Up</button>
+            </div>
+            <div class="m-login-container--mobile">
+                <button class="m-login-button" onclick="window.open('https://www.codechef.com/login?destination=/users/kaushikkumar', '_self')">Login / Sign Up</button>
+            </div>            </div>
+        </div>
+    </div>
+</header>
+<div class="">
+    <div class="mobileNavigation">
+        <div class="headerNavigation">
+                    <div class="navigationRow">
+                         
+                         <a class="navigationItem" href="/learn?itm_medium=navmenu&itm_campaign=learncp">
+                            <span class="navigationLink ">Learn</span>
+                         </a>
+                         <a class="navigationItem" href="/practice?itm_medium=navmenu&itm_campaign=practice">
+                            <span class="navigationLink ">Practice</span>
+                         </a>
+                         <a class="navigationItem" href="/contests?itm_medium=navmenu&itm_campaign=allcontests">
+                            <span class="navigationLink ">Compete</span>
+                         </a>             
+                    </div>
+                </div>    </div>
+</div>
+
+<main class="content">
+  <aside class="breadcrumbs">
+    <div class="breadcrumb"><a href="/">Home</a>&nbsp;&raquo;&nbsp;kaushik kumar</div>  </aside><!--.breadcrumbs-->
+  <div class="ns-content">
+    <link rel="stylesheet" href="/sites/all/modules/codechef_register/css/user_profile.css?v=4588da652d3813f7270c425c2f0123e2"/>
+<style>
+    .contest-participated-count {
+        font-size: 12px;
+        line-height: 14px;
+        padding: 8px;
+        font-weight: 400;
+        width: fit-content;
+        border: 1px solid #DBDBDB;
+        border-radius: 4px;
+        height: 30px;
+    }
+
+    .rating-title-container , .heatmap-title-container {
+        display: flex;
+        padding-top: 10px;
+        justify-content: space-between;
+        border-top: 1px solid #000000;
+    }
+
+    .rating-title-container h3 , .heatmap-title-container h3 {
+        padding: 0 !important;
+        border: none !important;
+        margin: 0 !important;
+    }
+
+    .heatmap-title-container {
+        justify-content: unset;
+    }
+
+    .rating-tooltip {
+        border-radius: 50%;
+        position: relative;
+        display: inline-block;
+        text-decoration: none;
+    }
+
+    .school-rating-number .rating-tooltip, .rating-number .rating-tooltip {
+        height: 16px;
+        width: 16px;
+        border: 2px solid #4a4a4a;
+        font-size: 12px;
+        top: 9px;
+        left: 7px;
+        color: #4a4a4a;
+    }
+
+    .school-rating-number .rating-tooltip:hover, .rating-number .rating-tooltip:hover {
+        color: #4a4a4a !important;
+    }
+
+    .rank-stats .rating-tooltip {
+        height: 14px;
+        width: 14px;
+        border: 1px solid #FFF;
+        font-size: 9px;
+        color: #FFFFFF;
+        display: block;
+        bottom: 17px;
+        left: 78px;
+    }
+
+    .rank-stats .rating-tooltip:hover {
+        color: #FFFFFF !important;
+    }
+
+
+    .ratings-graph-change-button button{
+        width: 100%;
+        background-color: inherit;
+        border: none;
+        cursor: pointer;
+        padding: 10px;
+        transition: 0.3s;
+        font-size: 14px;
+        color: #4a4a4a;
+        font-family: "Open Sans", serif;
+        margin-bottom: 0;
+    }
+
+    .ratings-graph-change-button button:hover {
+        background-color: #ddd;
+    }
+
+    .button-active {
+        background: #FFFFFF !important;
+        border-top: 2px solid grey !important;
+        font-weight: 600;
+    }
+
+    .ratings-graph-change-button {
+        display: flex;
+        justify-content: center;
+        background-color: #f1f1f1;
+        align-items: center;
+        margin: 16px 0 0;
+    }
+
+</style>
+<script src="/sites/all/modules/fbmod/js/fb_sdk.js"></script>
+<script> const socialMediaShareTitle = 'Share Your Badges Status';</script>
+<script src="/sites/all/modules/codechef_open_register/js/report_card.js?v=
+1d673f7df99ed726b162797b692202d8"></script>
+<div class="user-profile-container">
+    <div class="row">
+        <div class="content-area small-8 columns">
+            <div class="user-details-container plr10">
+                <header>
+                    <img class='profileImage' src='https://cdn.codechef.com/sites/default/files/uploads/pictures/9156aa3149bd729e5baaf9723ed8b7fc.jpg' width='70px' height='70px' alt='user profile'/>                                        <h1 class="h2-style">kaushik kumar</h1>
+                                    </header>
+
+                <section class="user-details">
+                    <ul class="side-nav">
+                        
+                        <li>
+                            <label>Username:</label><span><span 
+            class='rating' 
+            style='display: inline-block; 
+                    font-size: 10px; 
+                    background: #3366CC;
+                    padding: 0 3px; 
+                    line-height: 1.3; 
+                    color: white;
+                    margin-right: 2px;'>3&#9733;</span><span class='m-username--link'>kaushikkumar</span></span>
+                        </li>
+
+                        
+                        
+                        <li><label>Country:</label><span><img class="user-country-flag" title="IN" src="https://cdn.codechef.com/download/flags/24/in.png">&nbsp;&nbsp;<span class="user-country-name" style="vertical-align:bottom">India</span></span></li>
+                        
+                        <li><label>Student/Professional:</label><span>Student</span></li>
+                        <li><label>Institution:</label><span>CMR College of Engineering &amp; Technology, Hyderabad Telangana, India</span></li>
+                        
+                        
+                        <li>
+                            <label>Teams List:</label>
+                            <span>
+                  List of <a href="/users/kaushikkumar/teams">teams</a>
+                  by kaushik kumar              </span>
+                        </li>
+
+                                                                                                    <li>
+                                                                <label>Discuss Profile:</label>
+                                <span>
+                          <a target="_blank" href= https://discuss.codechef.com/u/kaushikkumar>
+                              https://discuss.codechef.com/u/kaushikkumar                          </a>
+                      </span>
+                            </li>
+                                                                                                    <li>
+                                <label>CodeChef Pro Plan:</label>
+                                                                    <span>No Active Plan.
+                              <a target="_blank" href=
+                                    /pro?ref=header>
+                                  View Details
+                              </a>
+                          </span>
+                                                            </li>
+                                            </ul>
+                </section><!--.user-details-->
+                <section class="heatmap-container" style="margin-top: 20px;">
+                  <div class = "heatmap-title-container">
+                    <h3>Activity Heat Map</h3>
+                    <span style="margin-left: 6px;">
+                        <sup style="background-color: #ffe500;color: black;padding: 3px 6px;text-align: center;border-radius: 3px;font-size: 10px;">New</sup>
+                    </span>
+                  </div>
+                  <div>(Last 6 Months)</div>
+                  <div class="heatmap-content" id="js-heatmap"></div>
+                </section><!--submission-heat-map-->
+                <section class="rating-graphs rating-data-section">
+                    <div class="rating-title-container">
+                        <h3>Rating Graph</h3>
+                        <div class="contest-participated-count">
+                            No. of Contests Participated: <b>21</b>
+                        </div>
+                    </div>
+                    <div id="all-ratings-graph-buttons" class="ratings-graph-change-button">
+                        <button id="graph-button-all" onclick="ratingGraphSelection(false, false)">Current Ratings Graph</button>
+                        <button id="graph-button-all-old" onclick="ratingGraphSelection(true, false)">Old Ratings Graph</button>
+                    </div>
+                    <div class="tabs-content">
+                        <section role="tabpanel" aria-hidden="false" class="content active" id="cumulative" style="display: none">
+                            <div class='rank-stats'><div class='left' style='background-color: #3366CC'><div class='rating-container'><a href='https://www.codechef.com/ratings/all' class='rating'>1675 (<span class='rating-difference'>+76</span>)</a><small id='actual-rating-status-all' style='display: block'>Rating</small><small id='provisional-rating-status-all' style='display: none'>Provisional<br/>Rating <a class="tooltips rating-tooltip" target="_blank"
+    href="https://discuss.codechef.com/t/elo-mmr-ratings-go-live-on-codechef/102184/31">i
+    <span class="tooltiptext">Provisional Rating, click to know more</span>
+    </a></small></div></div><div class='left'><div id='rating-box-all' ><div class='contest-name'><a href='https://www.codechef.com/APRIL21B'>April Challenge 2021 Division 2</a><span class='time'>(2021-04-12 15:00:02)</span></div><div id='global-rank-all'><small>Global Rank:</small>&nbsp;&nbsp;&nbsp;<strong class='global-rank'>9</strong></div><div style = 'display: none'><small>Cheated in:</small>&nbsp;&nbsp;&nbsp;<strong class='cheated-contest'></strong></div></div><div id='rating-change-desc-all' style='display: none'><div><p style='font-size: 14px; margin: 0px'>Ratings System Update</p><span class='time'>(2021-04-12 15:00:02)</span></div><small>This is the difference due to changing the rating system.</small><small>This graph is not updated after 20th Dec 2022.</small> <a href="https://discuss.codechef.com/t/rating-system-update/104510">Know more</a></div></div></div>                            <div id="cumulative-graph" class="ml-10"></div>
+                        </section>
+                        <section role="tabpanel" aria-hidden="false" class="content active" id="cumulative-old" style="display: none">
+                            <div class='rank-stats'><div class='left' style='background-color: #3366CC'><div class='rating-container'><a href='https://www.codechef.com/ratings/all' class='rating'>1675 (<span class='rating-difference'>-345</span>)</a><small id='actual-rating-status-all-old' style='display: block'>Rating</small><small id='provisional-rating-status-all-old' style='display: none'>Provisional<br/>Rating <a class="tooltips rating-tooltip" target="_blank"
+    href="https://discuss.codechef.com/t/elo-mmr-ratings-go-live-on-codechef/102184/31">i
+    <span class="tooltiptext">Provisional Rating, click to know more</span>
+    </a></small></div></div><div class='left'><div id='rating-box-all-old' style='display: none'><div class='contest-name'><a href='https://www.codechef.com/RATING_SHIFT_TO_ELO_RATING_CODE'>April Challenge 2021 Division 2</a><span class='time'>(2022-12-20 00:00:00)</span></div><div id='global-rank-all-old'><small>Global Rank:</small>&nbsp;&nbsp;&nbsp;<strong class='global-rank'>9</strong></div><div style = 'display: none'><small>Cheated in:</small>&nbsp;&nbsp;&nbsp;<strong class='cheated-contest'></strong></div></div><div id='rating-change-desc-all-old' ><div><p style='font-size: 14px; margin: 0px'>Ratings System Update</p><span class='time'>(2022-12-20 00:00:00)</span></div><small>This is the difference due to changing the rating system.</small><small>This graph is not updated after 20th Dec 2022.</small> <a href="https://discuss.codechef.com/t/rating-system-update/104510">Know more</a></div></div></div>                            <div id="cumulative-old-graph" class="ml-10"></div>
+                        </section>
+                        <!--#cumulative-->
+                    </div><!--.tabs-content-->
+                </section><!--.rating-graphs-->
+                                <section class="rating-data-section distribution" style="position:relative; bottom:25px;">
+                    <h3>CodeChef Rating Distribution</h3>
+                    <div class="content" style="height: 320px;">
+                        <div id="distribution-graph"></div>
+                    </div>
+                </section><!--.distribution-->
+
+                <section class="rating-data-section submissions" style="position: relative;">
+                    <h3>Submissions</h3>
+                    <div class="content">
+                        <div id="submissions-graph"></div>
+                    </div>
+                </section><!--.submissions-->
+
+                <section class="rating-data-section problems-solved">
+                                        <h3>Practice Problems (18): </h3>
+                    <div class='content'>
+            <h5><a href='/practice-old' style='font-size: 14px;color:#000;'>Practice</a>:&nbsp;</h5><p><span><a href="/problems/COINS">Bytelandian gold coins</a>,&nbsp;<a href="/problems/HS08TEST">ATM</a>,&nbsp;<a href="/problems/CAKEDOOM">Doom Bakes Cakes</a>,&nbsp;<a href="/problems/CIELRCPT">Ciel and Receipt</a>,&nbsp;<a href="/problems/MAXDIFF">Maximum Weight Difference</a>,&nbsp;<a href="/problems/TACHSTCK">Chopsticks</a>,&nbsp;<a href="/problems/NUMFACT">Number of Factors</a>,&nbsp;<a href="/problems/TSHIRTS">Little Elephant and T-Shirts</a>,&nbsp;<a href="/problems/FLOW006">Sum of Digits</a>,&nbsp;<a href="/problems/CHEFST">Chef and the stones</a>,&nbsp;<a href="/problems/LSUM">Large Sum</a>,&nbsp;<a href="/problems/PCJ18B">Chef and Bored Games</a>,&nbsp;<a href="/problems/BFTT">Balsa For The Three</a>,&nbsp;<a href="/problems/BINXOR">Binary XOR</a>,&nbsp;<a href="/problems/POPGATES">At the Gates</a>,&nbsp;<a href="/problems/SWAPPALI">Swapping to Palindrome</a>,&nbsp;<a href="/problems/NOTALLFL">Not All Flavours</a>,&nbsp;<a href="/problems/SECRETMI">Secret Mission</a></span></p></div>                    <h3>Contests (81): </h3>
+                    <div class='content'><h5><a href='/ZCOPRAC' style='font-size: 14px;color:#000;'>
+                Past ZCO Problems</a>:&nbsp;</h5><p><span><a href="/ZCOPRAC/problems/ZCO15002">Variation</a>,&nbsp;<a href="/ZCOPRAC/problems/ZCO14001">Video Game</a>,&nbsp;<a href="/ZCOPRAC/problems/ZCO14003">Smart Phone</a>,&nbsp;<a href="/ZCOPRAC/problems/ZCO13001">Tournament</a></span></p></div><div class='content'><h5><a href='/COOK100B' style='font-size: 14px;color:#000;'>
+                November Cook-Off 2018 Division 2</a>:&nbsp;</h5><p><span><a href="/COOK100B/problems/TRUEDARE">Truth and Dare</a></span></p></div><div class='content'><h5><a href='/SEPT18B' style='font-size: 14px;color:#000;'>
+                September Challenge 2018 Division 2</a>:&nbsp;</h5><p><span><a href="/SEPT18B/problems/CHEFADV">Chef and Adventures</a>,&nbsp;<a href="/SEPT18B/problems/MAGICHF">Magician versus Chef</a></span></p></div><div class='content'><h5><a href='/DEC18B' style='font-size: 14px;color:#000;'>
+                December Challenge 2018 Division 2</a>:&nbsp;</h5><p><span><a href="/DEC18B/problems/COMAS">Chef and Meatballs</a>,&nbsp;<a href="/DEC18B/problems/CHFINTRO">Chef and Interactive Contests</a>,&nbsp;<a href="/DEC18B/problems/MAXEP">Max and Electrical Panel</a>,&nbsp;<a href="/DEC18B/problems/CHFIDEAL">Chef and An Ideal Problem</a></span></p></div><div class='content'><h5><a href='/NOV18B' style='font-size: 14px;color:#000;'>
+                November Challenge 2018 Division 2</a>:&nbsp;</h5><p><span><a href="/NOV18B/problems/PRDRG">Chef and Ridges</a>,&nbsp;<a href="/NOV18B/problems/CHFTIRED">Chef and Difficult Contests</a></span></p></div><div class='content'><h5><a href='/LTIME64B' style='font-size: 14px;color:#000;'>
+                September Lunchtime 2018 Division 2</a>:&nbsp;</h5><p><span><a href="/LTIME64B/problems/JDELAY">Judging Delay</a></span></p></div><div class='content'><h5><a href='/CDX2018' style='font-size: 14px;color:#000;'>
+                CODEX 18.0</a>:&nbsp;</h5><p><span><a href="/CDX2018/problems/CODX06">Naman and Sum</a>,&nbsp;<a href="/CDX2018/problems/CODX07">Aman and Divisors</a></span></p></div><div class='content'><h5><a href='/MOSCWJ19' style='font-size: 14px;color:#000;'>
+                Moscow Workshops Juniors 2019 (Rated for all)</a>:&nbsp;</h5><p><span><a href="/MOSCWJ19/problems/CUTPIZ">Cutting Pizza</a></span></p></div><div class='content'><h5><a href='/FEB19B' style='font-size: 14px;color:#000;'>
+                February Challenge 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/FEB19B/problems/DEPCHEF">Deputy Chef</a>,&nbsp;<a href="/FEB19B/problems/CHEFING">Chef and Secret Ingredients</a>,&nbsp;<a href="/FEB19B/problems/HMAPPY2">Appy and Contest</a>,&nbsp;<a href="/FEB19B/problems/MAGICJAR">Chef and Magical Jars</a></span></p></div><div class='content'><h5><a href='/APRIL19B' style='font-size: 14px;color:#000;'>
+                April Challenge 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/APRIL19B/problems/STRCH">Friend or Girlfriend</a>,&nbsp;<a href="/APRIL19B/problems/MAXREM">Maximum Remaining</a></span></p></div><div class='content'><h5><a href='/AUG19B' style='font-size: 14px;color:#000;'>
+                August Challenge 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/AUG19B/problems/MSNSADM1">Football</a>,&nbsp;<a href="/AUG19B/problems/KS1">Guddu and his Mother</a>,&nbsp;<a href="/AUG19B/problems/DSTAPLS">Distribute Apples</a>,&nbsp;<a href="/AUG19B/problems/CHEFDIL">Dilemma</a>,&nbsp;<a href="/AUG19B/problems/ZOMCAV">Zombie and the Caves</a></span></p></div><div class='content'><h5><a href='/OCT19B' style='font-size: 14px;color:#000;'>
+                October Challenge 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/OCT19B/problems/SAKTAN">Operations on a Matrix</a>,&nbsp;<a href="/OCT19B/problems/MSV">Chef and Maximum Star Value</a>,&nbsp;<a href="/OCT19B/problems/S10E">Phone Prices</a>,&nbsp;<a href="/OCT19B/problems/MARM">Array Modification</a></span></p></div><div class='content'><h5><a href='/COOK112B' style='font-size: 14px;color:#000;'>
+                November Cook-Off 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/COOK112B/problems/DIET">Chef Diet</a></span></p></div><div class='content'><h5><a href='/LTIME78B' style='font-size: 14px;color:#000;'>
+                November Lunchtime 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/LTIME78B/problems/DEADEND">Planting Trees</a>,&nbsp;<a href="/LTIME78B/problems/CMPRSS">Compress the List</a></span></p></div><div class='content'><h5><a href='/DEC19B' style='font-size: 14px;color:#000;'>
+                December Challenge 2019 Division 2</a>:&nbsp;</h5><p><span><a href="/DEC19B/problems/PLMU">Plus Multiply</a>,&nbsp;<a href="/DEC19B/problems/BINADD">Addition</a>,&nbsp;<a href="/DEC19B/problems/STICNOT">Sticky Notes</a>,&nbsp;<a href="/DEC19B/problems/BINXOR">Binary XOR</a>,&nbsp;<a href="/DEC19B/problems/WATSCORE">That Is My Score!</a>,&nbsp;<a href="/DEC19B/problems/SUBSPLAY">Easy Subsequence Selection</a></span></p></div><div class='content'><h5><a href='/FEB20B' style='font-size: 14px;color:#000;'>
+                February Challenge 2020 Division 2</a>:&nbsp;</h5><p><span><a href="/FEB20B/problems/CASH">Hard Cash</a>,&nbsp;<a href="/FEB20B/problems/THEATRE">The Theatre Problem</a>,&nbsp;<a href="/FEB20B/problems/CHEFRAIL">Chef and Railway Stations</a>,&nbsp;<a href="/FEB20B/problems/RAISINS">(Challenge) Raisins</a>,&nbsp;<a href="/FEB20B/problems/SNUG_FIT">School of Geometry</a>,&nbsp;<a href="/FEB20B/problems/NOCHANGE">No Change Required</a>,&nbsp;<a href="/FEB20B/problems/LONGCOOK">Long Contest and Cook Off Overlaps</a></span></p></div><div class='content'><h5><a href='/SGHC2019' style='font-size: 14px;color:#000;'>
+                Samsung Hiring Challenge</a>:&nbsp;</h5><p><span><a href="/SGHC2019/problems/HSHAKES">Handshakes</a></span></p></div><div class='content'><h5><a href='/LRNDSA01' style='font-size: 14px;color:#000;'>
+                DSA Learning Series - Contest 1</a>:&nbsp;</h5><p><span><a href="/LRNDSA01/problems/CARVANS">Carvans</a></span></p></div><div class='content'><h5><a href='/OCT20B' style='font-size: 14px;color:#000;'>
+                October Challenge 2020 Division 2</a>:&nbsp;</h5><p><span><a href="/OCT20B/problems/CVDRUN">Covid Run</a>,&nbsp;<a href="/OCT20B/problems/POSAND">Positive AND</a>,&nbsp;<a href="/OCT20B/problems/CHEFEZQ">Chef and Easy Queries</a>,&nbsp;<a href="/OCT20B/problems/REPLESX">Replace for X</a></span></p></div><div class='content'><h5><a href='/COOK125B' style='font-size: 14px;color:#000;'>
+                December Cook-Off 2020 Division 2</a>:&nbsp;</h5><p><span><a href="/COOK125B/problems/CATHIEF">Catch the Thief</a>,&nbsp;<a href="/COOK125B/problems/ATTENDU">Minimum Attendance Requirement</a>,&nbsp;<a href="/COOK125B/problems/SDSTRING">Self-Destructing Strings</a></span></p></div><div class='content'><h5><a href='/LTIME91B' style='font-size: 14px;color:#000;'>
+                December Lunchtime 2020 Division 2 (Unrated)</a>:&nbsp;</h5><p><span><a href="/LTIME91B/problems/THREE">Three Letters</a>,&nbsp;<a href="/LTIME91B/problems/SEDARR">Sed Sequences</a>,&nbsp;<a href="/LTIME91B/problems/SWAP10HG">One Zero Swaps</a></span></p></div><div class='content'><h5><a href='/LTIME92B' style='font-size: 14px;color:#000;'>
+                January Lunchtime 2021 Division 2 (Unrated)</a>:&nbsp;</h5><p><span><a href="/LTIME92B/problems/EVENDIFF">Even Differences</a>,&nbsp;<a href="/LTIME92B/problems/DREDIV">Dreams of Divisibility</a>,&nbsp;<a href="/LTIME92B/problems/EVENGAME">Even Sum</a>,&nbsp;<a href="/LTIME92B/problems/BINSUBS">Binary Subsequence</a></span></p></div><div class='content'><h5><a href='/COOK122B' style='font-size: 14px;color:#000;'>
+                September Cook-Off 2020 Division 2</a>:&nbsp;</h5><p><span><a href="/COOK122B/problems/BOWLERS">Bowling Strategy</a>,&nbsp;<a href="/COOK122B/problems/BULBS">Bulbs and Wires</a></span></p></div><div class='content'><h5><a href='/LTIME88B' style='font-size: 14px;color:#000;'>
+                September Lunchtime 2020 Division 2</a>:&nbsp;</h5><p><span><a href="/LTIME88B/problems/WATMELON">Watermelon</a>,&nbsp;<a href="/LTIME88B/problems/GCDOPS">GCD operations</a></span></p></div><div class='content'><h5><a href='/FEB21B' style='font-size: 14px;color:#000;'>
+                February Challenge 2021 Division 2</a>:&nbsp;</h5><p><span><a href="/FEB21B/problems/MULGAME">Multiple Games</a>,&nbsp;<a href="/FEB21B/problems/ATWNT">Another Tree with Number Theory</a>,&nbsp;<a href="/FEB21B/problems/FROGS">Frog Sort</a>,&nbsp;<a href="/FEB21B/problems/SUMXOR2">XOR Sums</a>,&nbsp;<a href="/FEB21B/problems/PRIGAME">Prime Game</a>,&nbsp;<a href="/FEB21B/problems/TEAMNAME">Team Name</a>,&nbsp;<a href="/FEB21B/problems/MAXFUN">Maximise Function</a></span></p></div><div class='content'><h5><a href='/APRIL21B' style='font-size: 14px;color:#000;'>
+                April Challenge 2021 Division 2</a>:&nbsp;</h5><p><span><a href="/APRIL21B/problems/KAVGMAT">Worthy Matrix</a>,&nbsp;<a href="/APRIL21B/problems/MEXSTR">Binary String MEX</a>,&nbsp;<a href="/APRIL21B/problems/BOOLGAME">Boolean Game</a>,&nbsp;<a href="/APRIL21B/problems/CHAOSEMP">Destroy the EMP Chip</a>,&nbsp;<a href="/APRIL21B/problems/TREEPERM">Tree Permutations</a>,&nbsp;<a href="/APRIL21B/problems/SDICE">Chef and Dice</a></span></p></div>                    <h3>Learning Paths (0): </h3>
+                    <p>None</p>                    <h3>Practice Paths (0): </h3>
+                    <p>None</p>                </section><!--.problems-solved-->
+                <section class="rating-data-section problems-solved">
+                    <h3>Contributions</h3>
+                    <div class="content">
+                        <h5 class="collapse">Problems Authored (0)</h5><p class="collapse-content">No Contribution</p><h5 class="collapse">Problems Tested (0)</h5><p class="collapse-content">No Contribution</p><h5 class="collapse">Editorials Contributed (0)</h5><p class="collapse-content">No Contribution</p>                    </div>
+                </section>
+
+                <script type="text/x-handlebars">
+                    {{outlet}}
+                    {{bs-growl-notifications showTime="2500"}}
+        </script>
+                <script type="text/x-handlebars" id="sets">
+                    <div>
+                        <a class="user-add"></a>
+                        {{#view App.BoxView}}
+
+                            <div class="add-button-set">
+                                <table id="test" border="0" cellpadding="0" cellspacing="0" style="padding:3px 10px;">
+                                    <tbody>
+                                    {{#if error}}
+                                        <tr>
+                                            <td colspan="3" style="text-align: center;">
+                                                <button class="ns-button" {{action fetchSets}}>Retry</button>
+                                            </td>
+                                        </tr>
+                                    {{else}}
+                                        {{#each model}}
+                                            {{#if isAdded}}
+                                                <tr {{action 'deleteMember' this }} title="Click to remove">
+                                                    <td style="width:10px; padding:5px 0 0;">
+                                                        <div class="ns-checkbox">
+                                                            <input type="checkbox" name="checkbox" checked/>
+                                                            <label></label>
+                                                        </div>
+                                                    </td>
+                                                    <td style="padding-left: 6px;">{{set_name}}</td>
+                                                    <td class="memberscount">{{membersCount}}</td>
+                                                </tr>
+                                            {{else}}
+                                                <tr {{action 'addMember' this }} title="Click to add">
+                                                    <td style="width:10px; padding:5px 0 0;">
+                                                        <div class="ns-checkbox">
+                                                            <input type="checkbox" name="checkbox"/>
+                                                            <label></label>
+                                                        </div>
+                                                    </td>
+                                                    <td style="padding-left: 6px;">{{set_name}}</td>
+                                                    <td class="memberscount">{{membersCount}}</td>
+                                                </tr>
+                                            {{/if}}
+                                        {{/each}}
+                                        <tr>
+                                            <td style="width:10px; padding:5px 0 0;"></td>
+                                            <td colspan="2"><a href="/sets" target="_blank">Create new set</a></td>
+                                        </tr>
+                                    {{/if}}
+                                    </tbody>
+                                </table>
+                            </div>
+                        {{/view}}
+                    </div>
+                </script>
+
+            </div><!--.user-details-container-->
+        </div><!--.small-8.columns-->
+
+        <aside class="sidebar small-4 columns pr0">
+            <div class="widget pl0 pr0 widget-rating">
+    <div class="content">
+
+        <div class="rating-header text-center">
+
+                        <div class="rating-number">1675</div>
+            <div>(Div 2)</div>
+            <div class="rating-star"><span style="background-color:#3366CC">&#9733;</span><span style="background-color:#3366CC">&#9733;</span><span style="background-color:#3366CC">&#9733;</span></div>
+            <a href="/ratings"><strong>CodeChef Rating</strong></a>
+            <small>(Highest Rating 1675)</small>
+        </div><!--rating-header-->
+
+        <div class="rating-ranks">
+            <ul class="inline-list">
+                <li>
+                    <a href="/ratings/all"><strong>Inactive</strong></a>
+                    Global Rank
+                </li>
+                <li>
+                    <a href="/ratings/all?filterBy=Country%3D"><strong>Inactive</strong></strong></a>
+                    Country Rank
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div class='widget badges'>
+                    <h4>Badges</h4>
+                    <div class='badge'>
+                    <div class='badge__image'>
+                        <img src='https://cdn.codechef.com/images/badges/contest/bronze.svg' alt='Contest Contender - Bronze Badge'/>
+                    </div>
+                    <div>
+                        <p class='badge__title'>Contest Contender - Bronze Badge</p>
+                        <p class='badge__description'>Received for participating in <span class='badge__goal'>5</span> Contests</p>
+                        
+                    </div>
+                </div><div class='badge'>
+                    <div class='badge__image'>
+                        <img src='https://cdn.codechef.com/images/badges/problem/bronze.svg' alt='Problem Solver - Bronze Badge'/>
+                    </div>
+                    <div>
+                        <p class='badge__title'>Problem Solver - Bronze Badge</p>
+                        <p class='badge__description'>Received for solving <span class='badge__goal'>50</span> Problems</p>
+                        
+                    </div>
+                </div>
+                </div>                                    <!--to be shown only if it is school student-->
+                            <div class="widget recent-activity">
+                    <h4>Recent Activity</h4>
+                    <div class="table-questions content" id="rankContentDiv">
+                        <p align="center"><img src="https://cdn.codechef.com/sites/all/themes/abessive/images/ajax-loader.gif"/> Fetching recent
+                            activity</p>
+                        <input type="hidden" id="user_handle" value="kaushikkumar" name="user_handle"/>
+                        <script type="text/javascript">
+                            onload_getpage_recent_activity_user('next');
+                        </script>
+                    </div>
+                </div>
+                    </aside><!--.sidebar-->
+
+    </div>
+</div><!--.user-profile-container-->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="/sites/all/modules/codechef_register/js/rating_highcharts.js?v=d3c1e8d2520b0e7a2af3f5453d7958e8 "
+        defer>
+</script>
+<script type="text/javascript">
+    jQuery(document)
+        .foundation();
+    $(document)
+        .ready(function () {
+            var colorForSections = {
+                'solutions_partially_accepted': '#d6ba22',
+                'compile_error': '#6F6D6D',
+                'runtime_error': '#8B572A',
+                'time_limit_exceeded': '#F7750F',
+                'wrong_answers': '#E56255',
+                'solutions_accepted': '#1C8C0E'
+            };
+            Highcharts.chart('submissions-graph', {
+                credits: {
+                    enabled: false
+                },
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false,
+                    type: 'pie'
+                },
+                title: {
+                    text: ''
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.y}</b>'
+                },
+                legend: {
+                    align: 'center',
+                    itemWidth: 230,
+                    itemMarginBottom: 5
+                },
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        marker: {
+                            enabled: true
+                        },
+                        states: {
+                            hover: {
+                                enabled: true,
+                                lineWidth: 1,
+                                halo: 1
+                            },
+                        },
+                        point: {
+                            events: {
+                                legendItemClick: function (e) {
+                                    e.preventDefault();
+                                }
+                            }
+                        },
+                        dataLabels: {
+                            enabled: true,
+                            format: '{point.y}'
+                        },
+                        showInLegend: true
+                    }
+                },
+                series: [{
+                    states: {
+                        hover: {
+                            enabled: true
+                        }
+                    },
+                    name: 'Count',
+                    colorByPoint: true,
+                    data: [
+                        {name:'solutions_accepted',y:122,color: colorForSections['solutions_accepted']},{name:'solutions_partially_accepted',y:13,color: colorForSections['solutions_partially_accepted']},{name:'wrong_answers',y:14,color: colorForSections['wrong_answers']},{name:'runtime_error',y:1,color: colorForSections['runtime_error']},                    ]
+                }]
+            });
+        });
+    var problem_solved_count = 150;
+    if (problem_solved_count == 0) {
+        $('#submissions-graph')
+            .hide();
+        $('#submissions-graph')
+            .parent()
+            .append('<img src="https://cdn.codechef.com/sites/all/themes/abessive/images/no-submission-pi-chart.png" alt="No Submissions">');
+    }
+    var distribution_graph_data = [{
+        name: '<=999',
+        color: '#666666',
+        y: 5.2183464120452,
+        drilldown: null
+    }, {
+        name: '1000-1099',
+        color: '#666666',
+        y: 4.9309032063545,
+        drilldown: null
+    }, {
+        name: '1100-1199',
+        color: '#666666',
+        y: 4.9383245490127,
+        drilldown: null
+    }, {
+        name: '1200-1299',
+        color: '#666666',
+        y: 4.9067012896226,
+        drilldown: null
+    }, {
+        name: '1300-1399',
+        color: '#666666',
+        y: 4.8311336003869,
+        drilldown: null
+    }, {
+        name: '1400-1499',
+        color: '#1E7D22',
+        y: 4.8072372787162,
+        drilldown: null
+    }, {
+        name: '1500-1599',
+        color: '#1E7D22',
+        y: 4.6747325778894,
+        drilldown: null
+    }, {
+        name: '1600-1699',
+        color: '#3366CC',
+        y: 4.522065854309,
+        drilldown: null
+    }, {
+        name: '1700-1799',
+        color: '#3366CC',
+        y: 4.2737187126862,
+        drilldown: null
+    }, {
+        name: '1800-1899',
+        color: '#684273',
+        y: 4.0473917022004,
+        drilldown: null
+    }, {
+        name: '1900-1999',
+        color: '#684273',
+        y: 3.7490402687035,
+        drilldown: null
+    }, {
+        name: '2000-2099',
+        color: '#FFBF00',
+        y: 3.5418287667813,
+        drilldown: null
+    }, {
+        name: '2100-2199',
+        color: '#FFBF00',
+        y: 3.1225435240688,
+        drilldown: null
+    }, {
+        name: '2200-2299',
+        color: '#FF7F00',
+        y: 2.922206277439,
+        drilldown: null
+    }, {
+        name: '2300-2399',
+        color: '#FF7F00',
+        y: 2.6702458530741,
+        drilldown: null
+    }, {
+        name: '2400-2499',
+        color: '#FF7F00',
+        y: 2.4149733479708,
+        drilldown: null
+    }, {
+        name: '2500-2599',
+        color: '#D0011B',
+        y: 2.2833012287035,
+        drilldown: null
+    }, {
+        name: '2600-2699',
+        color: '#D0011B',
+        y: 2.0293837776852,
+        drilldown: null
+    }, {
+        name: '2700-2799',
+        color: '#D0011B',
+        y: 1.8195439355419,
+        drilldown: null
+    }, {
+        name: '2800-2899',
+        color: '#D0011B',
+        y: 1.4471580313422,
+        drilldown: null
+    }, {
+        name: '2900-2999',
+        color: '#D0011B',
+        y: 1.1760912590557,
+        drilldown: null
+    }, {
+        name: '3000-50000',
+        color: '#D0011B',
+        y: 1.1461280356782,
+        drilldown: null
+    }
+    ];
+    var all_rating = [{"code":"SEPT18B","getyear":"2018","getmonth":"9","getday":"17","reason":null,"penalised_in":null,"rating":"1234","rank":"4548","name":"September Challenge 2018 Division 2","end_date":"2018-09-17 15:00:02","color":"#666666"},{"code":"LTIME64B","getyear":"2018","getmonth":"9","getday":"29","reason":null,"penalised_in":null,"rating":"1251","rank":"2967","name":"September Lunchtime 2018 Division 2","end_date":"2018-09-29 22:30:02","color":"#666666"},{"code":"NOV18B","getyear":"2018","getmonth":"11","getday":"12","reason":null,"penalised_in":null,"rating":"1357","rank":"3952","name":"November Challenge 2018 Division 2","end_date":"2018-11-12 15:00:02","color":"#666666"},{"code":"MOSCWJ19","getyear":"2018","getmonth":"11","getday":"18","reason":null,"penalised_in":null,"rating":"1388","rank":"158","name":"Moscow Workshops Juniors 2019 (Rated for all)","end_date":"2018-11-18 18:30:00","color":"#666666"},{"code":"COOK100B","getyear":"2018","getmonth":"11","getday":"19","reason":null,"penalised_in":null,"rating":"1406","rank":"1207","name":"November Cook-Off 2018 Division 2","end_date":"2018-11-19 00:00:02","color":"#1E7D22"},{"code":"DEC18B","getyear":"2018","getmonth":"12","getday":"18","reason":"Plagiarised in DEC18B","penalised_in":["DEC18B"],"rating":"1149","rank":"10770","name":"December Challenge 2018 Division 2","end_date":"2018-12-18 01:02:02","color":"#666666"},{"code":"FEB19B","getyear":"2019","getmonth":"2","getday":"13","reason":null,"penalised_in":null,"rating":"1220","rank":"4215","name":"February Challenge 2019 Division 2","end_date":"2019-02-13 15:00:02","color":"#666666"},{"code":"APRIL19B","getyear":"2019","getmonth":"4","getday":"15","reason":null,"penalised_in":null,"rating":"1285","rank":"3923","name":"April Challenge 2019 Division 2","end_date":"2019-04-15 15:00:02","color":"#666666"},{"code":"AUG19B","getyear":"2019","getmonth":"8","getday":"12","reason":null,"penalised_in":null,"rating":"1367","rank":"540","name":"August Challenge 2019 Division 2","end_date":"2019-08-12 15:00:02","color":"#666666"},{"code":"SEPT19B","getyear":"2019","getmonth":"9","getday":"16","reason":null,"penalised_in":null,"rating":"1378","rank":"8443","name":"September Challenge 2019 Division 2","end_date":"2019-09-16 15:00:02","color":"#666666"},{"code":"OCT19B","getyear":"2019","getmonth":"10","getday":"14","reason":null,"penalised_in":null,"rating":"1443","rank":"2163","name":"October Challenge 2019 Division 2","end_date":"2019-10-14 15:00:02","color":"#1E7D22"},{"code":"COOK112B","getyear":"2019","getmonth":"11","getday":"18","reason":null,"penalised_in":null,"rating":"1431","rank":"1792","name":"November Cook-Off 2019 Division 2","end_date":"2019-11-18 00:00:02","color":"#1E7D22"},{"code":"LTIME78B","getyear":"2019","getmonth":"11","getday":"30","reason":null,"penalised_in":null,"rating":"1480","rank":"444","name":"November Lunchtime 2019 Division 2","end_date":"2019-11-30 22:30:02","color":"#1E7D22"},{"code":"DEC19B","getyear":"2019","getmonth":"12","getday":"16","reason":null,"penalised_in":null,"rating":"1548","rank":"250","name":"December Challenge 2019 Division 2","end_date":"2019-12-16 15:02:00","color":"#1E7D22"},{"code":"FEB20B","getyear":"2020","getmonth":"2","getday":"17","reason":"Plagiarised in FEB20B","penalised_in":["FEB20B"],"rating":"1276","rank":"15147","name":"February Challenge 2020 Division 2","end_date":"2020-02-17 15:00:02","color":"#666666"},{"code":"COOK122B","getyear":"2020","getmonth":"9","getday":"21","reason":null,"penalised_in":null,"rating":"1349","rank":"258","name":"September Cook-Off 2020 Division 2","end_date":"2020-09-21 00:00:02","color":"#666666"},{"code":"LTIME88B","getyear":"2020","getmonth":"9","getday":"26","reason":null,"penalised_in":null,"rating":"1410","rank":"2104","name":"September Lunchtime 2020 Division 2","end_date":"2020-09-26 23:00:02","color":"#1E7D22"},{"code":"OCT20B","getyear":"2020","getmonth":"10","getday":"12","reason":null,"penalised_in":null,"rating":"1483","rank":"2129","name":"October Challenge 2020 Division 2","end_date":"2020-10-12 15:00:02","color":"#1E7D22"},{"code":"COOK125B","getyear":"2020","getmonth":"12","getday":"22","reason":null,"penalised_in":null,"rating":"1528","rank":"1967","name":"December Cook-Off 2020 Division 2","end_date":"2020-12-22 00:00:02","color":"#1E7D22"},{"code":"FEB21B","getyear":"2021","getmonth":"2","getday":"15","reason":null,"penalised_in":null,"rating":"1599","rank":"52","name":"February Challenge 2021 Division 2","end_date":"2021-02-15 15:00:02","color":"#1E7D22"},{"code":"APRIL21B","getyear":"2021","getmonth":"4","getday":"12","reason":null,"penalised_in":null,"rating":"1675","rank":"9","name":"April Challenge 2021 Division 2","end_date":"2021-04-12 15:00:02","color":"#3366CC"}];
+    var current_user_rating = all_rating.length > 0 ? parseInt(all_rating[all_rating.length - 1].rating) : 0;
+    var user_rating_pointer_data = [];
+    if (current_user_rating < 1000) {
+        user_rating_pointer_data.push(distribution_graph_data[0].y);
+    } else {
+        user_rating_pointer_data.push(null);
+    }
+    for (var index = 1; index < distribution_graph_data.length; ++index) {
+        var obj = distribution_graph_data[index];
+        var splits = obj.name.split('-');
+        var low = parseInt(splits[0]);
+        var high = parseInt(splits[1]);
+        if (current_user_rating >= low && current_user_rating <= high) {
+            user_rating_pointer_data.push(distribution_graph_data[index].y + 0.08);
+        } else {
+            user_rating_pointer_data.push(null);
+        }
+    }
+    var chart = Highcharts.chart('distribution-graph', {
+        credits: {
+            enabled: false
+        },
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: ''
+        },
+        xAxis: [{
+            type: 'Star',
+            labels: {
+                rotation: -90
+            },
+            categories: ['<=999', '1000-1099', '1100-1199', '1200-1299',
+                '1300-1399', '1400-1499', '1500-1599', '1600-1699',
+                '1700-1799', '1800-1899', '1900-1999', '2000-2099',
+                '2100-2199', '2200-2299', '2300-2399', '2400-2499',
+                '2500-2599', '2600-2699', '2700-2799', '2800-2899',
+                '2900-2999', '>=3000'],
+            plotLines: [
+                {
+                    color: '#7289c2', // Color value
+                    dashStyle: 'shortdash', // Style of the plot line. Default to solid
+                    value: 10.5, // Value where the line will appear
+                    width: 1.5, // Width of the line
+                    zIndex: 5
+                },
+                {
+                    color: '#7289c2', // Color value
+                    dashStyle: 'shortdash', // Style of the plot line. Default to solid
+                    value: 6.5, // Value where the line will appear
+                    width: 1.5, // Width of the line
+                    zIndex: 5
+                },
+                {
+                    color: '#7289c2', // Color value
+                    dashStyle: 'shortdash', // Style of the plot line. Default to solid
+                    value: 4.5, // Value of where the line will appear
+                    width: 1.5, // Width of the line
+                    zIndex: 5
+                }
+            ]
+        },
+            {
+                lineWidth: 0,
+                title: {
+                    enabled: true,
+                    text: 'Div 4',
+                    style: {
+                        fontWeight: 'bold',
+                        fontSize: '10px'
+                    },
+                    x: -175,
+                    y: 8
+                }
+            },
+            {
+                lineWidth: 0,
+                title: {
+                    enabled: true,
+                    text: 'Div 3',
+                    style: {
+                        fontWeight: 'bold',
+                        fontSize: '10px'
+                    },
+                    x: -105,
+                    y: -24
+                }
+            },
+            {
+                lineWidth: 0,
+                title: {
+                    enabled: true,
+                    text: 'Div 2',
+                    style: {
+                        fontWeight: 'bold',
+                        fontSize: '10px'
+                    },
+                    x: -40,
+                    y: -56
+                }
+            },
+            {
+                lineWidth: 0,
+                title: {
+                    enabled: true,
+                    text: 'Div 1',
+                    style: {
+                        fontWeight: 'bold',
+                        fontSize: '10px'
+                    },
+                    x: 105,
+                    y: -88
+                }
+            }
+        ],
+        yAxis: {
+            title: {
+                text: 'Number of people (in logarithmic scale)'
+            },
+            labels: {
+                formatter: function () {
+                    return Math.round(Math.pow(10, this.value));
+                }
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            series: {
+                borderColor: '#fff',
+                dataLabels: {
+                    enabled: false
+                },
+                pointPadding: 0,
+                groupPadding: 0
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+            formatter: function () {
+                return this.x + ': ' + Math.round(Math.pow(10, this.y));
+            }
+        },
+        series: [{
+            name: 'Rating Ranges',
+            colorByPoint: true,
+            data: distribution_graph_data
+        },
+            {
+                name: 'marker series',
+                type: 'line',
+                lineColor: 'transparent',
+                data: user_rating_pointer_data,
+                showInLegend: false,
+                enableMouseTracking: false,
+                marker: {
+                    symbol: 'triangle-down',
+                    fillColor: 'rgba(0,0,0,1)',
+                    radius: 5
+                }
+            }
+        ]
+    });
+
+    var collapse = document
+        .getElementsByClassName('collapse');
+    for (let i = 0; i < collapse.length; i++) {
+        collapse[i].addEventListener('click', function () {
+            this.classList.toggle('collapse-active');
+            var content = this.nextElementSibling;
+            if (content.style.display === 'block') {
+                content.style.display = 'none';
+            } else {
+                content.style.display = 'block';
+            }
+        });
+    }
+</script>
+<link rel="stylesheet" href="/sites/all/themes/abessive/heatmap.css" />
+<script>
+  $(function () {
+    var userDailySubmissionsStats = [] ;
+    $('#js-heatmap').heatmap(userDailySubmissionsStats);
+  });
+    (function ($) {
+    $.fn.heatmap = function (userDailySubmissionsStats) {
+        var $_this = $(this);
+        $_this.empty();
+        var settings = $.extend(
+            {
+                months: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                weeks: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                targetQuantity: '.heatmap-quantity',
+                tagId: 'heatmap-svgTag',
+                showTomorrow: false,
+                tomorrow: new Date(`2023-10-31`),
+                eventClick: () => {},
+            }
+        );
+        function calculateGap(settings, dayCount) {
+            var count = 0;
+            var monthCount = null;
+            for (var i = 0; i < 27; i++) {
+                var gElement = createElementSvg('g', { transform: 'translate(' + 20 * i + ',0)' });
+                var firstDate = new Date(settings.tomorrow);
+                firstDate.setMonth(settings.tomorrow.getMonth());
+                firstDate.setFullYear(settings.tomorrow.getFullYear());
+                firstDate.setDate(settings.tomorrow.getDate() - dayCount - 1);
+                var daysLeft = daysInMonth(firstDate) - firstDate.getDate();
+
+                // Days in week
+                for (var j = firstDate.getDay(); j < 7; j++) {
+                    var rectDate = new Date(settings.tomorrow);
+                    rectDate.setMonth(settings.tomorrow.getMonth());
+                    rectDate.setFullYear(settings.tomorrow.getFullYear());
+                    rectDate.setDate(settings.tomorrow.getDate() - dayCount);
+                    if (rectDate.getMonth() != monthCount && i < 52 && j > 3 && daysLeft > 7) {
+                        //new Month
+                        monthCount = rectDate.getMonth();
+                        ++count;
+                    }
+
+                    dayCount--;
+                }
+            }
+
+            return (count > 6) ? 80 : 95;
+        }
+
+        var pivot = 35;
+
+        var svgElement = createElementSvg('svg', { width: 30 * 20 + 2 * pivot, height: 7 * 22 + 2 * pivot });
+
+        var gElementContainer = createElementSvg('g', { transform: `translate(${pivot}, ${pivot})` });
+
+        var $_tag = $('<div>').addClass('svg-tag').attr('id', settings.tagId).appendTo($('body')).hide();
+
+        var isLeapYear = function (currentYear) {
+          return (currentYear % 100 == 0) ? currentYear % 400 == 0 : currentYear % 4 == 0;
+        };
+
+        var dayCount = 26 * 7 + (settings.tomorrow.getDay() + 6) % 7;
+        var monthCount;
+
+        var k = 6;
+        var gap = calculateGap({ tomorrow: settings.tomorrow }, dayCount);
+        //Weeks
+        for (var i = 0; i < 27; i++) {
+            var gElement = createElementSvg('g', { transform: 'translate(' + 20 * i + ',0)' });
+            var firstDate = new Date(settings.tomorrow);
+            firstDate.setMonth(settings.tomorrow.getMonth());
+            firstDate.setFullYear(settings.tomorrow.getFullYear());
+            firstDate.setDate(settings.tomorrow.getDate() - dayCount - 1);
+
+            var daysLeft = daysInMonth(firstDate) - firstDate.getDate();
+
+            // Days in week
+            for (var j = firstDate.getDay(); j < 7; j++) {
+                var rectDate = new Date(settings.tomorrow);
+                rectDate.setMonth(settings.tomorrow.getMonth());
+                rectDate.setFullYear(settings.tomorrow.getFullYear());
+                rectDate.setDate(settings.tomorrow.getDate() - dayCount);
+
+                if (rectDate.getMonth() != monthCount && i < 52 && j > 3 && daysLeft > 7) {
+                    //new Month
+                    var textMonth = createElementSvg('text', { x: k, y: '160', class: 'month' });
+                    k += gap;
+                    textMonth.textContent = getNameMonth(rectDate.getMonth());
+                    gElementContainer.appendChild(textMonth);
+                    monthCount = rectDate.getMonth();
+                }
+
+                dayCount--;
+                if (dayCount >= 0 || (settings.showTomorrow && dayCount >= -1)) {
+                    // Day-obj factory
+
+                    var rectElement = createElementSvg('rect', {
+                        class: 'day',
+                        width: '14px',
+                        height: '14px',
+                        rx: '2px',
+                        'data-date': rectDate.getFullYear() + '-' + (rectDate.getMonth() + 1) + '-' + rectDate.getDate(),
+                        y: 20 * j,
+                    });
+
+                    rectElement.onmouseover = function () {
+                        var dateString = $(this).attr('data-date').split('-');
+                        var date = new Date(dateString[0], dateString[1] - 1, dateString[2]);
+
+                        var tagDate = getBeautyDate(date);
+                        var tagCount = $(this).attr('data-count');
+                        var tagCountData = $(this).attr('data-count');
+
+                        if (tagCountData) {
+                            if (tagCountData >= 1) {
+                                tagCount = $(this).attr('data-count') + ' runs + submissions';
+                            } else {
+                                tagCount = 'Streak freeze';
+                            }
+                        } else {
+                            tagCount = 'No run/submissions';
+                        }
+
+                        $_tag
+                            .html('<b>' + tagCount + '</b> on ' + tagDate)
+                            .show()
+                            .css({
+                                left: $(this).offset().left - $_tag.outerWidth() / 2 + 5,
+                                top: $(this).offset().top - 33,
+                            });
+                    };
+
+                    rectElement.onmouseleave = function () {
+                        $_tag.text('').hide();
+                    };
+
+                    rectElement.onclick = function () {
+                        settings.eventClick({
+                            date: $(this).attr('data-date'),
+                            count: $(this).attr('data-count') || 0,
+                        });
+                    };
+
+                    gElement.appendChild(rectElement);
+                }
+            }
+
+            gElementContainer.appendChild(gElement);
+        }
+        for(var i = 0; i < 7; ++i)
+        {
+            if(i % 2 == 1) {
+                continue;
+            }
+            var curDay = createElementSvg('text', { x: '-35', y: `${(20 * i) + 12}` });
+            curDay.textContent = getNameWeek(i);
+            gElementContainer.appendChild(curDay);
+        }
+
+        svgElement.appendChild(gElementContainer);
+
+        // Append Calendar to document;
+        $_this.append(svgElement);
+
+        fillData(userDailySubmissionsStats);
+
+        function createElementSvg(type, prop) {
+            var e = document.createElementNS('http://www.w3.org/2000/svg', type);
+            for (var p in prop) {
+                e.setAttribute(p, prop[p]);
+            }
+            return e;
+        }
+
+        function fillData(userDailySubmissionsStats) {
+            var submissionCount = 0;
+            for (var m in userDailySubmissionsStats) {
+                var cur = $_this.find('rect.day[data-date="' + userDailySubmissionsStats[m].date + '"]');
+                cur.attr('data-count', parseInt(userDailySubmissionsStats[m].value));
+                cur.attr('category', Math.min(Math.ceil(parseInt(userDailySubmissionsStats[m].value) / 5),  5));
+                submissionCount += parseInt(userDailySubmissionsStats[m].value);
+            }
+            $(settings.targetQuantity).text(userDailySubmissionsStats.length + ' days, ' + submissionCount + ' submissions');
+        }
+
+        function getNameMonth(a) {
+            return settings.months[a];
+        }
+        function getNameWeek(a) {
+            return settings.weeks[a];
+        }
+        function getBeautyDate(a) {
+            return getNameMonth(a.getMonth()) + ' ' + a.getDate() + ', ' + a.getFullYear();
+        }
+        function daysInMonth(d) {
+            return 32 - new Date(d.getFullYear(), d.getMonth(), 32).getDate();
+        }
+    };
+})(jQuery);
+</script>
+  </div>
+</main><!--main .content-->
+<footer class="l-footer">
+            <div class="l-footer__content m-footer__content">
+                <div class='l-footer__links'><div class='l-footer__column'><div class='l-footer__head'><p class='m-footer__head'>Programming Tools</p></div><div class='l-footer__list'><div class='l-footer__link'><a href='https://www.codechef.com/ide' class='m-footer__link'>Online IDE</a></div><div class='l-footer__link'><a href='https://www.codechef.com/contests#future-contests' class='m-footer__link'>Upcoming Coding Contests</a></div><div class='l-footer__link'><a href='https://www.codechef.com/hostyourcontest' class='m-footer__link'>Host Your Contest</a></div><div class='l-footer__link'><a href='https://www.codechef.com/problemsetting' class='m-footer__link'>Problem Setting</a></div></div></div><div class='l-footer__column'><div class='l-footer__head'><p class='m-footer__head'>Learning Resources</p></div><div class='l-footer__list'><div class='l-footer__link'><a href='https://www.codechef.com/learn' class='m-footer__link'>Learning paths</a></div><div class='l-footer__link'><a href='https://www.codechef.com/practice' class='m-footer__link'>Practice Problems</a></div><div class='l-footer__link'><a href='https://discuss.codechef.com' class='m-footer__link'>CodeChef Discuss</a></div><div class='l-footer__link'><a href='/wiki/faq' class='m-footer__link'>FAQ's</a></div></div></div><div class='l-footer__column'><div class='l-footer__head'><p class='m-footer__head'>More</p></div><div class='l-footer__list'><div class='l-footer__link'><a href='https://business.codechef.com' class='m-footer__link'>CodeChef For Business</a></div><div class='l-footer__link'><a href='https://www.codechef.com/contactus' class='m-footer__link'>Contact Us</a></div><div class='l-footer__link'><a href='https://www.codechef.com/codeofconduct' class='m-footer__link'>Code Of Conduct</a></div><div class='l-footer__link'><a href='https://www.codechef.com/rankings' class='m-footer__link'>User Ranklist</a></div></div></div><div class='l-footer__column'><div class='l-footer__head'><p class='m-footer__head'>Usage Policy</p></div><div class='l-footer__list'><div class='l-footer__link'><a href='https://www.codechef.com/privacy-policy' class='m-footer__link'>Privacy policy</a></div><div class='l-footer__link'><a href='https://www.codechef.com/terms' class='m-footer__link'>Terms</a></div><div class='l-footer__link'><a href='https://www.codechef.com/other-policies' class='m-footer__link'>Other Policy</a></div></div></div></div>
+            </div>
+            <div class="l-footer__social">
+                <div class="m-footer__social">
+                    <div class="l-footer__site">
+                        <a href="https://www.codechef.com" class="m-footer__site is-link-hovered ">www.codechef.com</a>
+                    </div>
+                    <div class="l-footer__follow-sec">
+                        <div class="l-footer__follow">
+                            <span class="m-footer__follow">Follow Us</span>
+                        </div>
+                        <div class='l-footer__icons'><a class='m-social i-youtube' href='//youtube.com/c/codechef1'></a><a class='m-social i-telegram' href='//t.me/learncpwithcodechef'></a><a class='m-social i-facebook' href='//facebook.com/CodeChef'></a><a class='m-social i-instagram' href='//instagram.com/codechef'></a><a class='m-social i-twitter' href='//twitter.com/codechef'></a><a class='m-social i-medium' href='//medium.com/codechef-official'></a><a class='m-social i-quora' href='//quora.com/topic/CodeChef'></a><a class='m-social i-linkedin' href='//linkedin.com/company/codechef'></a></div>
+                    </div>
+                </div>
+           </div>
+        </footer><script type="text/javascript">
+            _linkedin_data_partner_id = "93463";
+            </script><script type="text/javascript">
+            (function(){var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript";b.async = true;
+            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+            s.parentNode.insertBefore(b, s);})();
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none;" alt=""
+                src="https://dc.ads.linkedin.com/collect/?pid=93463&fmt=gif" />
+        </noscript><div id='gdpr-cookie-notif' class='global--announcement' style='display: none;'>
+                <div class='global--announcement__content'>
+                    <p>
+                        We use cookies to improve your experience and for analytical purposes.
+                        Read our <a href='https://www.codechef.com/privacy-policy'>Privacy Policy</a>
+                        and <a href='https://www.codechef.com/terms'>Terms</a> to know more.
+                        You consent to our cookies if you continue to use our website.
+                    </p>
+                </div>
+                <div class='global--announcement__action'>
+                    <button id='gdpr-i-love-cookies' class='button grey tiny'>Okay</button>
+                </div>
+            </div></body>
+</html>
