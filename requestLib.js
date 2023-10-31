@@ -16,8 +16,6 @@ module.exports.getData = async (url, userAgent)=>{
             // Other options like 'qs' (query string parameters), 'json' (parse response as JSON), etc.
         };
 
-        console.log(requestOptions)
-
         const response = await request(requestOptions);
         return response ;
 
